@@ -1,0 +1,28 @@
+.container2 {
+  position: relative;
+  top: 800px;
+}
+
+.video {
+  display: flex;
+  justify-content: space-between;
+  height: 400px;
+  padding-top: 30px;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.contact {
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  background-color: rgb(24, 22, 22);
+  text-align: center;
+  color: white;
+  align-content: flex-end;
+}
+
+.end {
+  padding-top: 10px;
+}

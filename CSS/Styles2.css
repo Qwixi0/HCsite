@@ -1,0 +1,32 @@
+.card {
+  border-radius: 20px;
+  text-align: center;
+  padding: 1em;
+}
+
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  border-radius: 50%;
+  width: 90%;
+  margin: auto;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  background-color: rgb(24, 22, 22);
+  text-align: center;
+  color: white;
+}
+
+.end {
+  padding-top: 10px;
+}

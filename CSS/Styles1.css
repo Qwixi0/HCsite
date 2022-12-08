@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+}
+
+.h1 {
+  margin-top: 50px;
+}
+
+.general {
+  margin-top: 35px;
+  font-size: 25px;
+}
+
+.btn1 {
+  font-size: 30px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  background-color: rgb(24, 22, 22);
+  text-align: center;
+  color: white;
+}
+
+.end {
+  padding-top: 10px;
+}
